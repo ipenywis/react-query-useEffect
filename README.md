@@ -1,5 +1,20 @@
 # Why you should use React Query instead of useEffect for API Calls?
 
+# Install everything
+```bash
+npm install
+```
+
+# Start the demo server
+```bash
+npm start
+```
+
+# Start the app
+```bash
+npm run dev
+```
+
 This repo, gives great examples of why you should use react-query library for fetching and storing the state of your server-side data in React instead of gambling with useEffect and redux
 
 - use react-query for fetching
